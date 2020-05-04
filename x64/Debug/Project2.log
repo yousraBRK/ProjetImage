@@ -1,2 +1,8 @@
 ﻿  Source.cpp
-  Project2.vcxproj -> C:\Users\aya-k\source\repos\Project2\x64\Debug\Project2.exe
+C:\Users\aya-k\source\repos\ProjetImage\Source.cpp(131,46): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\aya-k\source\repos\ProjetImage\Source.cpp(132,74): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\aya-k\source\repos\ProjetImage\Source.cpp(210,46): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\aya-k\source\repos\ProjetImage\Source.cpp(211,74): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\aya-k\source\repos\ProjetImage\Source.cpp(244,46): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\aya-k\source\repos\ProjetImage\Source.cpp(245,74): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  Project2.vcxproj -> C:\Users\aya-k\source\repos\ProjetImage\x64\Debug\Project2.exe

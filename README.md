@@ -1,2 +1,0 @@
-# ProjetImage
-Reconnaissances de marches
